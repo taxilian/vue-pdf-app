@@ -1139,6 +1139,7 @@ export default class PdfViewer extends Vue {
   private created() {
     window.print = pdfPrint;
     pdfApp.PDFViewerApplication.isViewerEmbedded = !this.title;
+    pdfApp.PDFViewerApplication.appConfig
     this.$emit("after-created", pdfApp.PDFViewerApplication);
   }
 
