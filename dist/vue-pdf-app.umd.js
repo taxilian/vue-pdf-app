@@ -151,6 +151,8 @@ __webpack_require__("cb29");
 
 __webpack_require__("4160");
 
+__webpack_require__("e260");
+
 __webpack_require__("a15b");
 
 __webpack_require__("d81d");
@@ -164,6 +166,8 @@ __webpack_require__("8ba4");
 __webpack_require__("b680");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("25f0");
 
@@ -1987,6 +1991,8 @@ __webpack_require__("d3b7");
 
 __webpack_require__("07ac");
 
+__webpack_require__("e6cf");
+
 __webpack_require__("ac1f");
 
 __webpack_require__("2532");
@@ -3522,6 +3528,8 @@ __webpack_require__("d28b");
 
 __webpack_require__("a630");
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
 
 __webpack_require__("3ca3");
@@ -3718,11 +3726,15 @@ module.exports = Object.is || function is(x, y) {
  */
 
 
+__webpack_require__("e260");
+
 __webpack_require__("a9e3");
 
 __webpack_require__("8ba4");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("3ca3");
 
@@ -4537,13 +4549,19 @@ __webpack_require__("99af");
 
 __webpack_require__("caad");
 
+__webpack_require__("e260");
+
 __webpack_require__("a9e3");
 
 __webpack_require__("8ba4");
 
+__webpack_require__("cca6");
+
 __webpack_require__("dca8");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("3ca3");
 
@@ -8318,17 +8336,6 @@ module.exports = DESCRIPTORS ? Object.defineProperties : function defineProperti
 
 /***/ }),
 
-/***/ "387a":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_24c74537_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("f779");
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_24c74537_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_24c74537_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
- /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_24c74537_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
-
-/***/ }),
-
 /***/ "38cf":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8397,6 +8404,8 @@ __webpack_require__("a623");
 
 __webpack_require__("c975");
 
+__webpack_require__("e260");
+
 __webpack_require__("d81d");
 
 __webpack_require__("45fc");
@@ -8410,6 +8419,8 @@ __webpack_require__("a9e3");
 __webpack_require__("8ba4");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("25f0");
 
@@ -9867,9 +9878,13 @@ __webpack_require__("99af");
 
 __webpack_require__("4160");
 
+__webpack_require__("e260");
+
 __webpack_require__("fb6a");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("5cc6");
 
@@ -10487,6 +10502,21 @@ module.exports = function (key) {
 
 /***/ }),
 
+/***/ "44de":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+
+module.exports = function (a, b) {
+  var console = global.console;
+  if (console && console.error) {
+    arguments.length === 1 ? console.error(a) : console.error(a, b);
+  }
+};
+
+
+/***/ }),
+
 /***/ "44e7":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10543,6 +10573,8 @@ module.exports = __webpack_require__.p + "3ce22e999d54bb9ca8150a59207f9d3e.cur";
 __webpack_require__("99af");
 
 __webpack_require__("4160");
+
+__webpack_require__("e260");
 
 __webpack_require__("fb6a");
 
@@ -11244,6 +11276,20 @@ $({ target: 'Array', proto: true, forced: !STRICT_METHOD || !USES_TO_LENGTH }, {
     return $some(this, callbackfn, arguments.length > 1 ? arguments[1] : undefined);
   }
 });
+
+
+/***/ }),
+
+/***/ "4657":
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.i, "#sidebarContainer.zero-top[data-v-c61fdf10],#sidebarContent.zero-top[data-v-c61fdf10],#viewerContainer.zero-top[data-v-c61fdf10]{top:0}", ""]);
+// Exports
+module.exports = exports;
 
 
 /***/ }),
@@ -12765,6 +12811,8 @@ __webpack_require__("99af");
 
 __webpack_require__("c975");
 
+__webpack_require__("e260");
+
 __webpack_require__("a15b");
 
 __webpack_require__("baa5");
@@ -12774,6 +12822,8 @@ __webpack_require__("fb6a");
 __webpack_require__("b0c0");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("4d63");
 
@@ -13834,6 +13884,8 @@ __webpack_require__("e01a");
 
 __webpack_require__("d28b");
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
 
 __webpack_require__("3ca3");
@@ -14839,6 +14891,8 @@ exports.PDFAttachmentViewer = PDFAttachmentViewer;
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
 var _classCallCheck = __webpack_require__("970b");
 
 var _createClass = __webpack_require__("5bc3");
@@ -15104,6 +15158,8 @@ __webpack_require__("e01a");
 
 __webpack_require__("d28b");
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
 
 __webpack_require__("3ca3");
@@ -15299,6 +15355,8 @@ exports.PasswordPrompt = PasswordPrompt;
 
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 var _classCallCheck = __webpack_require__("970b");
 
@@ -17127,6 +17185,8 @@ module.exports = [
 __webpack_require__("99af");
 
 __webpack_require__("cb29");
+
+__webpack_require__("e260");
 
 __webpack_require__("fb6a");
 
@@ -19720,6 +19780,8 @@ module.exports = typeof WeakMap === 'function' && /native code/.test(inspectSour
  */
 
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
 
 __webpack_require__("cfc3");
@@ -20257,9 +20319,13 @@ var WebGLUtils = function WebGLUtilsClosure() {
  */
 
 
+__webpack_require__("e260");
+
 __webpack_require__("45fc");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("3ca3");
 
@@ -20549,7 +20615,7 @@ exports.PDFThumbnailViewer = PDFThumbnailViewer;
 /***/ "80e2":
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(process, module) {var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;__webpack_require__("a4d3");__webpack_require__("e01a");__webpack_require__("944a");__webpack_require__("99af");__webpack_require__("a623");__webpack_require__("cb29");__webpack_require__("4de4");__webpack_require__("4160");__webpack_require__("caad");__webpack_require__("c975");__webpack_require__("a15b");__webpack_require__("d81d");__webpack_require__("fb6a");__webpack_require__("a434");__webpack_require__("b0c0");__webpack_require__("0c47");__webpack_require__("4ec9");__webpack_require__("90d7");__webpack_require__("23dc");__webpack_require__("a9e3");__webpack_require__("8ba4");__webpack_require__("9129");__webpack_require__("b64b");__webpack_require__("d3b7");__webpack_require__("07ac");__webpack_require__("820e");__webpack_require__("4d63");__webpack_require__("ac1f");__webpack_require__("5377");__webpack_require__("25f0");__webpack_require__("f5b2");__webpack_require__("f6d6");__webpack_require__("3ca3");__webpack_require__("466d");__webpack_require__("4d90");__webpack_require__("5319");__webpack_require__("841c");__webpack_require__("1276");__webpack_require__("2ca0");__webpack_require__("cc71");__webpack_require__("cfc3");__webpack_require__("4a9b");__webpack_require__("fd87");__webpack_require__("8b09");__webpack_require__("143c");__webpack_require__("5cc6");__webpack_require__("8a59");__webpack_require__("84c3");__webpack_require__("fb2c");__webpack_require__("9a8c");__webpack_require__("a975");__webpack_require__("735e");__webpack_require__("c1ac");__webpack_require__("d139");__webpack_require__("3a7b");__webpack_require__("d5d6");__webpack_require__("82f8");__webpack_require__("e91f");__webpack_require__("60bd");__webpack_require__("5f96");__webpack_require__("3280");__webpack_require__("3fcc");__webpack_require__("ca91");__webpack_require__("25a1");__webpack_require__("cd26");__webpack_require__("3c5d");__webpack_require__("2954");__webpack_require__("649e");__webpack_require__("219c");__webpack_require__("170b");__webpack_require__("b39a");__webpack_require__("72f7");__webpack_require__("159b");__webpack_require__("ddb0");__webpack_require__("2b3d");var _possibleConstructorReturn=__webpack_require__("6b58");var _get=__webpack_require__("8962");var _getPrototypeOf=__webpack_require__("36c6");var _toConsumableArray=__webpack_require__("448a");var _createForOfIteratorHelper=__webpack_require__("6374");var _assertThisInitialized=__webpack_require__("3c96");var _createClass=__webpack_require__("5bc3");var _classCallCheck=__webpack_require__("970b");var _inherits=__webpack_require__("ed6d");var _createSuper=__webpack_require__("2d0d");__webpack_require__("96cf");var _slicedToArray=__webpack_require__("278c");var _asyncToGenerator=__webpack_require__("c973");var _typeof=__webpack_require__("7037");/**
+/* WEBPACK VAR INJECTION */(function(process, module) {var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;__webpack_require__("a4d3");__webpack_require__("e01a");__webpack_require__("944a");__webpack_require__("99af");__webpack_require__("a623");__webpack_require__("cb29");__webpack_require__("4de4");__webpack_require__("4160");__webpack_require__("caad");__webpack_require__("c975");__webpack_require__("e260");__webpack_require__("a15b");__webpack_require__("d81d");__webpack_require__("fb6a");__webpack_require__("a434");__webpack_require__("b0c0");__webpack_require__("0c47");__webpack_require__("4ec9");__webpack_require__("90d7");__webpack_require__("23dc");__webpack_require__("a9e3");__webpack_require__("8ba4");__webpack_require__("9129");__webpack_require__("cca6");__webpack_require__("b64b");__webpack_require__("d3b7");__webpack_require__("07ac");__webpack_require__("e6cf");__webpack_require__("820e");__webpack_require__("4d63");__webpack_require__("ac1f");__webpack_require__("5377");__webpack_require__("25f0");__webpack_require__("f5b2");__webpack_require__("f6d6");__webpack_require__("3ca3");__webpack_require__("466d");__webpack_require__("4d90");__webpack_require__("5319");__webpack_require__("841c");__webpack_require__("1276");__webpack_require__("2ca0");__webpack_require__("cc71");__webpack_require__("cfc3");__webpack_require__("4a9b");__webpack_require__("fd87");__webpack_require__("8b09");__webpack_require__("143c");__webpack_require__("5cc6");__webpack_require__("8a59");__webpack_require__("84c3");__webpack_require__("fb2c");__webpack_require__("9a8c");__webpack_require__("a975");__webpack_require__("735e");__webpack_require__("c1ac");__webpack_require__("d139");__webpack_require__("3a7b");__webpack_require__("d5d6");__webpack_require__("82f8");__webpack_require__("e91f");__webpack_require__("60bd");__webpack_require__("5f96");__webpack_require__("3280");__webpack_require__("3fcc");__webpack_require__("ca91");__webpack_require__("25a1");__webpack_require__("cd26");__webpack_require__("3c5d");__webpack_require__("2954");__webpack_require__("649e");__webpack_require__("219c");__webpack_require__("170b");__webpack_require__("b39a");__webpack_require__("72f7");__webpack_require__("159b");__webpack_require__("ddb0");__webpack_require__("2b3d");var _possibleConstructorReturn=__webpack_require__("6b58");var _get=__webpack_require__("8962");var _getPrototypeOf=__webpack_require__("36c6");var _toConsumableArray=__webpack_require__("448a");var _createForOfIteratorHelper=__webpack_require__("6374");var _assertThisInitialized=__webpack_require__("3c96");var _createClass=__webpack_require__("5bc3");var _classCallCheck=__webpack_require__("970b");var _inherits=__webpack_require__("ed6d");var _createSuper=__webpack_require__("2d0d");__webpack_require__("96cf");var _slicedToArray=__webpack_require__("278c");var _asyncToGenerator=__webpack_require__("c973");var _typeof=__webpack_require__("7037");/**
  * @licstart The following is the entire license notice for the
  * Javascript code in this page
  *
@@ -20625,11 +20691,15 @@ exports.PDFThumbnailViewer = PDFThumbnailViewer;
  */
 
 
+__webpack_require__("e260");
+
 __webpack_require__("d81d");
 
 __webpack_require__("b0c0");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("820e");
 
@@ -21477,9 +21547,13 @@ __webpack_require__("a9e3");
 
 __webpack_require__("8ba4");
 
+__webpack_require__("cca6");
+
 __webpack_require__("dca8");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("25f0");
 
@@ -21815,7 +21889,7 @@ exports.BasePreferences = BasePreferences;
 /***/ "8750":
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(Buffer, global, process, module) {var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;__webpack_require__("a4d3");__webpack_require__("e01a");__webpack_require__("b636");__webpack_require__("d28b");__webpack_require__("944a");__webpack_require__("99af");__webpack_require__("a623");__webpack_require__("cb29");__webpack_require__("7db0");__webpack_require__("c740");__webpack_require__("4160");__webpack_require__("a630");__webpack_require__("caad");__webpack_require__("c975");__webpack_require__("a15b");__webpack_require__("baa5");__webpack_require__("d81d");__webpack_require__("fb6a");__webpack_require__("45fc");__webpack_require__("a434");__webpack_require__("c19f");__webpack_require__("b0c0");__webpack_require__("6c57");__webpack_require__("0c47");__webpack_require__("4ec9");__webpack_require__("90d7");__webpack_require__("23dc");__webpack_require__("a9e3");__webpack_require__("8ba4");__webpack_require__("9129");__webpack_require__("b680");__webpack_require__("dca8");__webpack_require__("e439");__webpack_require__("7039");__webpack_require__("3410");__webpack_require__("c906");__webpack_require__("b64b");__webpack_require__("cee8");__webpack_require__("d3b7");__webpack_require__("07ac");__webpack_require__("820e");__webpack_require__("5d41");__webpack_require__("4d63");__webpack_require__("ac1f");__webpack_require__("25f0");__webpack_require__("6062");__webpack_require__("f5b2");__webpack_require__("8a79");__webpack_require__("f6d6");__webpack_require__("2532");__webpack_require__("3ca3");__webpack_require__("466d");__webpack_require__("843c");__webpack_require__("4d90");__webpack_require__("38cf");__webpack_require__("5319");__webpack_require__("841c");__webpack_require__("1276");__webpack_require__("2ca0");__webpack_require__("498a");__webpack_require__("cc71");__webpack_require__("cfc3");__webpack_require__("4a9b");__webpack_require__("143c");__webpack_require__("5cc6");__webpack_require__("8a59");__webpack_require__("fb2c");__webpack_require__("9a8c");__webpack_require__("a975");__webpack_require__("735e");__webpack_require__("c1ac");__webpack_require__("d139");__webpack_require__("3a7b");__webpack_require__("d5d6");__webpack_require__("82f8");__webpack_require__("e91f");__webpack_require__("60bd");__webpack_require__("5f96");__webpack_require__("3280");__webpack_require__("3fcc");__webpack_require__("ca91");__webpack_require__("25a1");__webpack_require__("cd26");__webpack_require__("3c5d");__webpack_require__("2954");__webpack_require__("649e");__webpack_require__("219c");__webpack_require__("170b");__webpack_require__("b39a");__webpack_require__("72f7");__webpack_require__("10d1");__webpack_require__("1fe2");__webpack_require__("159b");__webpack_require__("ddb0");__webpack_require__("130f");__webpack_require__("2b3d");__webpack_require__("bf19");var _typeof2=__webpack_require__("7037");/**
+/* WEBPACK VAR INJECTION */(function(Buffer, global, process, module) {var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;__webpack_require__("a4d3");__webpack_require__("e01a");__webpack_require__("b636");__webpack_require__("d28b");__webpack_require__("944a");__webpack_require__("99af");__webpack_require__("a623");__webpack_require__("cb29");__webpack_require__("7db0");__webpack_require__("c740");__webpack_require__("4160");__webpack_require__("a630");__webpack_require__("caad");__webpack_require__("c975");__webpack_require__("e260");__webpack_require__("a15b");__webpack_require__("baa5");__webpack_require__("d81d");__webpack_require__("fb6a");__webpack_require__("45fc");__webpack_require__("a434");__webpack_require__("c19f");__webpack_require__("b0c0");__webpack_require__("6c57");__webpack_require__("0c47");__webpack_require__("4ec9");__webpack_require__("90d7");__webpack_require__("23dc");__webpack_require__("a9e3");__webpack_require__("8ba4");__webpack_require__("9129");__webpack_require__("b680");__webpack_require__("cca6");__webpack_require__("dca8");__webpack_require__("e439");__webpack_require__("7039");__webpack_require__("3410");__webpack_require__("c906");__webpack_require__("b64b");__webpack_require__("cee8");__webpack_require__("d3b7");__webpack_require__("07ac");__webpack_require__("e6cf");__webpack_require__("820e");__webpack_require__("a79d");__webpack_require__("5d41");__webpack_require__("4d63");__webpack_require__("ac1f");__webpack_require__("25f0");__webpack_require__("6062");__webpack_require__("f5b2");__webpack_require__("8a79");__webpack_require__("f6d6");__webpack_require__("2532");__webpack_require__("3ca3");__webpack_require__("466d");__webpack_require__("843c");__webpack_require__("4d90");__webpack_require__("38cf");__webpack_require__("5319");__webpack_require__("841c");__webpack_require__("1276");__webpack_require__("2ca0");__webpack_require__("498a");__webpack_require__("cc71");__webpack_require__("cfc3");__webpack_require__("4a9b");__webpack_require__("143c");__webpack_require__("5cc6");__webpack_require__("8a59");__webpack_require__("fb2c");__webpack_require__("9a8c");__webpack_require__("a975");__webpack_require__("735e");__webpack_require__("c1ac");__webpack_require__("d139");__webpack_require__("3a7b");__webpack_require__("d5d6");__webpack_require__("82f8");__webpack_require__("e91f");__webpack_require__("60bd");__webpack_require__("5f96");__webpack_require__("3280");__webpack_require__("3fcc");__webpack_require__("ca91");__webpack_require__("25a1");__webpack_require__("cd26");__webpack_require__("3c5d");__webpack_require__("2954");__webpack_require__("649e");__webpack_require__("219c");__webpack_require__("170b");__webpack_require__("b39a");__webpack_require__("72f7");__webpack_require__("10d1");__webpack_require__("1fe2");__webpack_require__("159b");__webpack_require__("ddb0");__webpack_require__("130f");__webpack_require__("2b3d");__webpack_require__("bf19");var _typeof2=__webpack_require__("7037");/**
  * @licstart The following is the entire license notice for the
  * Javascript code in this page
  *
@@ -22828,6 +22902,8 @@ __webpack_require__("8ba4");
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
 __webpack_require__("ac1f");
 
 __webpack_require__("25f0");
@@ -23793,17 +23869,14 @@ module.exports = isForced;
 
 /***/ }),
 
-/***/ "95d5":
-/***/ (function(module, exports, __webpack_require__) {
+/***/ "95bd":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-// Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
-exports = ___CSS_LOADER_API_IMPORT___(false);
-// Module
-exports.push([module.i, "#sidebarContainer.zero-top[data-v-24c74537],#sidebarContent.zero-top[data-v-24c74537],#viewerContainer.zero-top[data-v-24c74537]{top:0}", ""]);
-// Exports
-module.exports = exports;
-
+"use strict";
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("b084");
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+ /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -24608,6 +24681,8 @@ __webpack_require__("caad");
 
 __webpack_require__("c975");
 
+__webpack_require__("e260");
+
 __webpack_require__("45fc");
 
 __webpack_require__("a434");
@@ -24620,6 +24695,8 @@ __webpack_require__("a9e3");
 
 __webpack_require__("8ba4");
 
+__webpack_require__("cca6");
+
 __webpack_require__("e439");
 
 __webpack_require__("3410");
@@ -24629,6 +24706,10 @@ __webpack_require__("b64b");
 __webpack_require__("d3b7");
 
 __webpack_require__("07ac");
+
+__webpack_require__("e6cf");
+
+__webpack_require__("a79d");
 
 __webpack_require__("ac1f");
 
@@ -27615,6 +27696,8 @@ module.exports = {
  */
 
 
+__webpack_require__("e260");
+
 __webpack_require__("4ec9");
 
 __webpack_require__("d3b7");
@@ -28203,6 +28286,8 @@ __webpack_require__("e01a");
 
 __webpack_require__("d28b");
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
 
 __webpack_require__("3ca3");
@@ -28756,6 +28841,8 @@ exports.DefaultTextLayerFactory = DefaultTextLayerFactory;
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
 __webpack_require__("96cf");
 
 var _asyncToGenerator = __webpack_require__("c973");
@@ -28973,9 +29060,13 @@ __webpack_require__("8ba4");
 
 __webpack_require__("9129");
 
+__webpack_require__("cca6");
+
 __webpack_require__("b64b");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("ac1f");
 
@@ -29691,6 +29782,8 @@ exports.BROKEN_CARET = fails(function () {
 __webpack_require__("a630");
 
 __webpack_require__("c975");
+
+__webpack_require__("e260");
 
 __webpack_require__("a15b");
 
@@ -30636,6 +30729,8 @@ __webpack_require__("99af");
 
 __webpack_require__("4160");
 
+__webpack_require__("e260");
+
 __webpack_require__("a15b");
 
 __webpack_require__("d81d");
@@ -30644,7 +30739,13 @@ __webpack_require__("a434");
 
 __webpack_require__("6c57");
 
+__webpack_require__("cca6");
+
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
+
+__webpack_require__("a79d");
 
 __webpack_require__("3ca3");
 
@@ -31375,6 +31476,50 @@ var renderTextLayer = function renderTextLayerClosure() {
 }();
 
 exports.renderTextLayer = renderTextLayer;
+
+/***/ }),
+
+/***/ "a79d":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var $ = __webpack_require__("23e7");
+var IS_PURE = __webpack_require__("c430");
+var NativePromise = __webpack_require__("fea9");
+var fails = __webpack_require__("d039");
+var getBuiltIn = __webpack_require__("d066");
+var speciesConstructor = __webpack_require__("4840");
+var promiseResolve = __webpack_require__("cdf9");
+var redefine = __webpack_require__("6eeb");
+
+// Safari bug https://bugs.webkit.org/show_bug.cgi?id=200829
+var NON_GENERIC = !!NativePromise && fails(function () {
+  NativePromise.prototype['finally'].call({ then: function () { /* empty */ } }, function () { /* empty */ });
+});
+
+// `Promise.prototype.finally` method
+// https://tc39.github.io/ecma262/#sec-promise.prototype.finally
+$({ target: 'Promise', proto: true, real: true, forced: NON_GENERIC }, {
+  'finally': function (onFinally) {
+    var C = speciesConstructor(this, getBuiltIn('Promise'));
+    var isFunction = typeof onFinally == 'function';
+    return this.then(
+      isFunction ? function (x) {
+        return promiseResolve(C, onFinally()).then(function () { return x; });
+      } : onFinally,
+      isFunction ? function (e) {
+        return promiseResolve(C, onFinally()).then(function () { throw e; });
+      } : onFinally
+    );
+  }
+});
+
+// patch native Promise.prototype for native async functions
+if (!IS_PURE && typeof NativePromise == 'function' && !NativePromise.prototype['finally']) {
+  redefine(NativePromise.prototype, 'finally', getBuiltIn('Promise').prototype['finally']);
+}
+
 
 /***/ }),
 
@@ -33242,6 +33387,21 @@ module.exports = TO_STRING_TAG_SUPPORT ? {}.toString : function toString() {
 
 /***/ }),
 
+/***/ "b084":
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__("4657");
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var add = __webpack_require__("499e").default
+var update = add("bb0faf72", content, true, {"sourceMap":false,"shadowMode":false});
+
+/***/ }),
+
 /***/ "b0c0":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33522,6 +33682,91 @@ var DefaultAnnotationLayerFactory = /*#__PURE__*/function () {
 }();
 
 exports.DefaultAnnotationLayerFactory = DefaultAnnotationLayerFactory;
+
+/***/ }),
+
+/***/ "b575":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var getOwnPropertyDescriptor = __webpack_require__("06cf").f;
+var classof = __webpack_require__("c6b6");
+var macrotask = __webpack_require__("2cf4").set;
+var IS_IOS = __webpack_require__("1cdc");
+
+var MutationObserver = global.MutationObserver || global.WebKitMutationObserver;
+var process = global.process;
+var Promise = global.Promise;
+var IS_NODE = classof(process) == 'process';
+// Node.js 11 shows ExperimentalWarning on getting `queueMicrotask`
+var queueMicrotaskDescriptor = getOwnPropertyDescriptor(global, 'queueMicrotask');
+var queueMicrotask = queueMicrotaskDescriptor && queueMicrotaskDescriptor.value;
+
+var flush, head, last, notify, toggle, node, promise, then;
+
+// modern engines have queueMicrotask method
+if (!queueMicrotask) {
+  flush = function () {
+    var parent, fn;
+    if (IS_NODE && (parent = process.domain)) parent.exit();
+    while (head) {
+      fn = head.fn;
+      head = head.next;
+      try {
+        fn();
+      } catch (error) {
+        if (head) notify();
+        else last = undefined;
+        throw error;
+      }
+    } last = undefined;
+    if (parent) parent.enter();
+  };
+
+  // Node.js
+  if (IS_NODE) {
+    notify = function () {
+      process.nextTick(flush);
+    };
+  // browsers with MutationObserver, except iOS - https://github.com/zloirock/core-js/issues/339
+  } else if (MutationObserver && !IS_IOS) {
+    toggle = true;
+    node = document.createTextNode('');
+    new MutationObserver(flush).observe(node, { characterData: true });
+    notify = function () {
+      node.data = toggle = !toggle;
+    };
+  // environments with maybe non-completely correct, but existent Promise
+  } else if (Promise && Promise.resolve) {
+    // Promise.resolve without an argument throws an error in LG WebOS 2
+    promise = Promise.resolve(undefined);
+    then = promise.then;
+    notify = function () {
+      then.call(promise, flush);
+    };
+  // for other environments - macrotask based on:
+  // - setImmediate
+  // - MessageChannel
+  // - window.postMessag
+  // - onreadystatechange
+  // - setTimeout
+  } else {
+    notify = function () {
+      // strange IE + webpack dev server bug - use .call(global)
+      macrotask.call(global, flush);
+    };
+  }
+}
+
+module.exports = queueMicrotask || function (fn) {
+  var task = { fn: fn, next: undefined };
+  if (last) last.next = task;
+  if (!head) {
+    head = task;
+    notify();
+  } last = task;
+};
+
 
 /***/ }),
 
@@ -35613,6 +35858,8 @@ module.exports = {
  */
 
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
 
 __webpack_require__("3ca3");
@@ -36904,9 +37151,13 @@ __webpack_require__("99af");
 
 __webpack_require__("4160");
 
+__webpack_require__("e260");
+
 __webpack_require__("a15b");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("ac1f");
 
@@ -37602,6 +37853,8 @@ $({ target: 'Object', stat: true, forced: FAILS_ON_PRIMITIVES }, {
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
 function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {
   try {
     var info = gen[key](arg);
@@ -37798,6 +38051,21 @@ $({ target: 'String', proto: true, forced: forcedStringHTMLMethod('bold') }, {
 
 /***/ }),
 
+/***/ "cca6":
+/***/ (function(module, exports, __webpack_require__) {
+
+var $ = __webpack_require__("23e7");
+var assign = __webpack_require__("60da");
+
+// `Object.assign` method
+// https://tc39.github.io/ecma262/#sec-object.assign
+$({ target: 'Object', stat: true, forced: Object.assign !== assign }, {
+  assign: assign
+});
+
+
+/***/ }),
+
 /***/ "cd26":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -37823,6 +38091,25 @@ exportTypedArrayMethod('reverse', function reverse() {
     that[length] = value;
   } return that;
 });
+
+
+/***/ }),
+
+/***/ "cdf9":
+/***/ (function(module, exports, __webpack_require__) {
+
+var anObject = __webpack_require__("825a");
+var isObject = __webpack_require__("861d");
+var newPromiseCapability = __webpack_require__("f069");
+
+module.exports = function (C, x) {
+  anObject(C);
+  if (isObject(x) && x.constructor === C) return x;
+  var promiseCapability = newPromiseCapability.f(C);
+  var resolve = promiseCapability.resolve;
+  resolve(x);
+  return promiseCapability.promise;
+};
 
 
 /***/ }),
@@ -37873,7 +38160,11 @@ module.exports = function (key, value) {
 
 __webpack_require__("a623");
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("3ca3");
 
@@ -38225,7 +38516,11 @@ $({ target: 'Object', stat: true, forced: FAILS_ON_PRIMITIVES, sham: !FREEZING }
 
 __webpack_require__("99af");
 
+__webpack_require__("e260");
+
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("25f0");
 
@@ -39008,6 +39303,8 @@ $({ target: 'Array', proto: true, forced: !HAS_SPECIES_SUPPORT || !USES_TO_LENGT
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
 var _classCallCheck = __webpack_require__("970b");
 
 var _createClass = __webpack_require__("5bc3");
@@ -39225,6 +39522,8 @@ module.exports =
 
 __webpack_require__("a623");
 
+__webpack_require__("e260");
+
 __webpack_require__("a15b");
 
 __webpack_require__("fb6a");
@@ -39236,6 +39535,8 @@ __webpack_require__("a9e3");
 __webpack_require__("8ba4");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("ac1f");
 
@@ -40697,6 +40998,8 @@ __webpack_require__("4160");
 
 __webpack_require__("c975");
 
+__webpack_require__("e260");
+
 __webpack_require__("fb6a");
 
 __webpack_require__("45fc");
@@ -40704,6 +41007,8 @@ __webpack_require__("45fc");
 __webpack_require__("a434");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("5cc6");
 
@@ -41286,6 +41591,8 @@ module.exports = !fails(function () {
 
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("18a5");
 
@@ -41980,6 +42287,8 @@ module.exports = function (target, src, options) {
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
 var _classCallCheck = __webpack_require__("970b");
 
 var _createClass = __webpack_require__("5bc3");
@@ -42582,6 +42891,393 @@ module.exports = function (exec) {
 
 /***/ }),
 
+/***/ "e6cf":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var $ = __webpack_require__("23e7");
+var IS_PURE = __webpack_require__("c430");
+var global = __webpack_require__("da84");
+var getBuiltIn = __webpack_require__("d066");
+var NativePromise = __webpack_require__("fea9");
+var redefine = __webpack_require__("6eeb");
+var redefineAll = __webpack_require__("e2cc");
+var setToStringTag = __webpack_require__("d44e");
+var setSpecies = __webpack_require__("2626");
+var isObject = __webpack_require__("861d");
+var aFunction = __webpack_require__("1c0b");
+var anInstance = __webpack_require__("19aa");
+var classof = __webpack_require__("c6b6");
+var inspectSource = __webpack_require__("8925");
+var iterate = __webpack_require__("2266");
+var checkCorrectnessOfIteration = __webpack_require__("1c7e");
+var speciesConstructor = __webpack_require__("4840");
+var task = __webpack_require__("2cf4").set;
+var microtask = __webpack_require__("b575");
+var promiseResolve = __webpack_require__("cdf9");
+var hostReportErrors = __webpack_require__("44de");
+var newPromiseCapabilityModule = __webpack_require__("f069");
+var perform = __webpack_require__("e667");
+var InternalStateModule = __webpack_require__("69f3");
+var isForced = __webpack_require__("94ca");
+var wellKnownSymbol = __webpack_require__("b622");
+var V8_VERSION = __webpack_require__("2d00");
+
+var SPECIES = wellKnownSymbol('species');
+var PROMISE = 'Promise';
+var getInternalState = InternalStateModule.get;
+var setInternalState = InternalStateModule.set;
+var getInternalPromiseState = InternalStateModule.getterFor(PROMISE);
+var PromiseConstructor = NativePromise;
+var TypeError = global.TypeError;
+var document = global.document;
+var process = global.process;
+var $fetch = getBuiltIn('fetch');
+var newPromiseCapability = newPromiseCapabilityModule.f;
+var newGenericPromiseCapability = newPromiseCapability;
+var IS_NODE = classof(process) == 'process';
+var DISPATCH_EVENT = !!(document && document.createEvent && global.dispatchEvent);
+var UNHANDLED_REJECTION = 'unhandledrejection';
+var REJECTION_HANDLED = 'rejectionhandled';
+var PENDING = 0;
+var FULFILLED = 1;
+var REJECTED = 2;
+var HANDLED = 1;
+var UNHANDLED = 2;
+var Internal, OwnPromiseCapability, PromiseWrapper, nativeThen;
+
+var FORCED = isForced(PROMISE, function () {
+  var GLOBAL_CORE_JS_PROMISE = inspectSource(PromiseConstructor) !== String(PromiseConstructor);
+  if (!GLOBAL_CORE_JS_PROMISE) {
+    // V8 6.6 (Node 10 and Chrome 66) have a bug with resolving custom thenables
+    // https://bugs.chromium.org/p/chromium/issues/detail?id=830565
+    // We can't detect it synchronously, so just check versions
+    if (V8_VERSION === 66) return true;
+    // Unhandled rejections tracking support, NodeJS Promise without it fails @@species test
+    if (!IS_NODE && typeof PromiseRejectionEvent != 'function') return true;
+  }
+  // We need Promise#finally in the pure version for preventing prototype pollution
+  if (IS_PURE && !PromiseConstructor.prototype['finally']) return true;
+  // We can't use @@species feature detection in V8 since it causes
+  // deoptimization and performance degradation
+  // https://github.com/zloirock/core-js/issues/679
+  if (V8_VERSION >= 51 && /native code/.test(PromiseConstructor)) return false;
+  // Detect correctness of subclassing with @@species support
+  var promise = PromiseConstructor.resolve(1);
+  var FakePromise = function (exec) {
+    exec(function () { /* empty */ }, function () { /* empty */ });
+  };
+  var constructor = promise.constructor = {};
+  constructor[SPECIES] = FakePromise;
+  return !(promise.then(function () { /* empty */ }) instanceof FakePromise);
+});
+
+var INCORRECT_ITERATION = FORCED || !checkCorrectnessOfIteration(function (iterable) {
+  PromiseConstructor.all(iterable)['catch'](function () { /* empty */ });
+});
+
+// helpers
+var isThenable = function (it) {
+  var then;
+  return isObject(it) && typeof (then = it.then) == 'function' ? then : false;
+};
+
+var notify = function (promise, state, isReject) {
+  if (state.notified) return;
+  state.notified = true;
+  var chain = state.reactions;
+  microtask(function () {
+    var value = state.value;
+    var ok = state.state == FULFILLED;
+    var index = 0;
+    // variable length - can't use forEach
+    while (chain.length > index) {
+      var reaction = chain[index++];
+      var handler = ok ? reaction.ok : reaction.fail;
+      var resolve = reaction.resolve;
+      var reject = reaction.reject;
+      var domain = reaction.domain;
+      var result, then, exited;
+      try {
+        if (handler) {
+          if (!ok) {
+            if (state.rejection === UNHANDLED) onHandleUnhandled(promise, state);
+            state.rejection = HANDLED;
+          }
+          if (handler === true) result = value;
+          else {
+            if (domain) domain.enter();
+            result = handler(value); // can throw
+            if (domain) {
+              domain.exit();
+              exited = true;
+            }
+          }
+          if (result === reaction.promise) {
+            reject(TypeError('Promise-chain cycle'));
+          } else if (then = isThenable(result)) {
+            then.call(result, resolve, reject);
+          } else resolve(result);
+        } else reject(value);
+      } catch (error) {
+        if (domain && !exited) domain.exit();
+        reject(error);
+      }
+    }
+    state.reactions = [];
+    state.notified = false;
+    if (isReject && !state.rejection) onUnhandled(promise, state);
+  });
+};
+
+var dispatchEvent = function (name, promise, reason) {
+  var event, handler;
+  if (DISPATCH_EVENT) {
+    event = document.createEvent('Event');
+    event.promise = promise;
+    event.reason = reason;
+    event.initEvent(name, false, true);
+    global.dispatchEvent(event);
+  } else event = { promise: promise, reason: reason };
+  if (handler = global['on' + name]) handler(event);
+  else if (name === UNHANDLED_REJECTION) hostReportErrors('Unhandled promise rejection', reason);
+};
+
+var onUnhandled = function (promise, state) {
+  task.call(global, function () {
+    var value = state.value;
+    var IS_UNHANDLED = isUnhandled(state);
+    var result;
+    if (IS_UNHANDLED) {
+      result = perform(function () {
+        if (IS_NODE) {
+          process.emit('unhandledRejection', value, promise);
+        } else dispatchEvent(UNHANDLED_REJECTION, promise, value);
+      });
+      // Browsers should not trigger `rejectionHandled` event if it was handled here, NodeJS - should
+      state.rejection = IS_NODE || isUnhandled(state) ? UNHANDLED : HANDLED;
+      if (result.error) throw result.value;
+    }
+  });
+};
+
+var isUnhandled = function (state) {
+  return state.rejection !== HANDLED && !state.parent;
+};
+
+var onHandleUnhandled = function (promise, state) {
+  task.call(global, function () {
+    if (IS_NODE) {
+      process.emit('rejectionHandled', promise);
+    } else dispatchEvent(REJECTION_HANDLED, promise, state.value);
+  });
+};
+
+var bind = function (fn, promise, state, unwrap) {
+  return function (value) {
+    fn(promise, state, value, unwrap);
+  };
+};
+
+var internalReject = function (promise, state, value, unwrap) {
+  if (state.done) return;
+  state.done = true;
+  if (unwrap) state = unwrap;
+  state.value = value;
+  state.state = REJECTED;
+  notify(promise, state, true);
+};
+
+var internalResolve = function (promise, state, value, unwrap) {
+  if (state.done) return;
+  state.done = true;
+  if (unwrap) state = unwrap;
+  try {
+    if (promise === value) throw TypeError("Promise can't be resolved itself");
+    var then = isThenable(value);
+    if (then) {
+      microtask(function () {
+        var wrapper = { done: false };
+        try {
+          then.call(value,
+            bind(internalResolve, promise, wrapper, state),
+            bind(internalReject, promise, wrapper, state)
+          );
+        } catch (error) {
+          internalReject(promise, wrapper, error, state);
+        }
+      });
+    } else {
+      state.value = value;
+      state.state = FULFILLED;
+      notify(promise, state, false);
+    }
+  } catch (error) {
+    internalReject(promise, { done: false }, error, state);
+  }
+};
+
+// constructor polyfill
+if (FORCED) {
+  // 25.4.3.1 Promise(executor)
+  PromiseConstructor = function Promise(executor) {
+    anInstance(this, PromiseConstructor, PROMISE);
+    aFunction(executor);
+    Internal.call(this);
+    var state = getInternalState(this);
+    try {
+      executor(bind(internalResolve, this, state), bind(internalReject, this, state));
+    } catch (error) {
+      internalReject(this, state, error);
+    }
+  };
+  // eslint-disable-next-line no-unused-vars
+  Internal = function Promise(executor) {
+    setInternalState(this, {
+      type: PROMISE,
+      done: false,
+      notified: false,
+      parent: false,
+      reactions: [],
+      rejection: false,
+      state: PENDING,
+      value: undefined
+    });
+  };
+  Internal.prototype = redefineAll(PromiseConstructor.prototype, {
+    // `Promise.prototype.then` method
+    // https://tc39.github.io/ecma262/#sec-promise.prototype.then
+    then: function then(onFulfilled, onRejected) {
+      var state = getInternalPromiseState(this);
+      var reaction = newPromiseCapability(speciesConstructor(this, PromiseConstructor));
+      reaction.ok = typeof onFulfilled == 'function' ? onFulfilled : true;
+      reaction.fail = typeof onRejected == 'function' && onRejected;
+      reaction.domain = IS_NODE ? process.domain : undefined;
+      state.parent = true;
+      state.reactions.push(reaction);
+      if (state.state != PENDING) notify(this, state, false);
+      return reaction.promise;
+    },
+    // `Promise.prototype.catch` method
+    // https://tc39.github.io/ecma262/#sec-promise.prototype.catch
+    'catch': function (onRejected) {
+      return this.then(undefined, onRejected);
+    }
+  });
+  OwnPromiseCapability = function () {
+    var promise = new Internal();
+    var state = getInternalState(promise);
+    this.promise = promise;
+    this.resolve = bind(internalResolve, promise, state);
+    this.reject = bind(internalReject, promise, state);
+  };
+  newPromiseCapabilityModule.f = newPromiseCapability = function (C) {
+    return C === PromiseConstructor || C === PromiseWrapper
+      ? new OwnPromiseCapability(C)
+      : newGenericPromiseCapability(C);
+  };
+
+  if (!IS_PURE && typeof NativePromise == 'function') {
+    nativeThen = NativePromise.prototype.then;
+
+    // wrap native Promise#then for native async functions
+    redefine(NativePromise.prototype, 'then', function then(onFulfilled, onRejected) {
+      var that = this;
+      return new PromiseConstructor(function (resolve, reject) {
+        nativeThen.call(that, resolve, reject);
+      }).then(onFulfilled, onRejected);
+    // https://github.com/zloirock/core-js/issues/640
+    }, { unsafe: true });
+
+    // wrap fetch result
+    if (typeof $fetch == 'function') $({ global: true, enumerable: true, forced: true }, {
+      // eslint-disable-next-line no-unused-vars
+      fetch: function fetch(input /* , init */) {
+        return promiseResolve(PromiseConstructor, $fetch.apply(global, arguments));
+      }
+    });
+  }
+}
+
+$({ global: true, wrap: true, forced: FORCED }, {
+  Promise: PromiseConstructor
+});
+
+setToStringTag(PromiseConstructor, PROMISE, false, true);
+setSpecies(PROMISE);
+
+PromiseWrapper = getBuiltIn(PROMISE);
+
+// statics
+$({ target: PROMISE, stat: true, forced: FORCED }, {
+  // `Promise.reject` method
+  // https://tc39.github.io/ecma262/#sec-promise.reject
+  reject: function reject(r) {
+    var capability = newPromiseCapability(this);
+    capability.reject.call(undefined, r);
+    return capability.promise;
+  }
+});
+
+$({ target: PROMISE, stat: true, forced: IS_PURE || FORCED }, {
+  // `Promise.resolve` method
+  // https://tc39.github.io/ecma262/#sec-promise.resolve
+  resolve: function resolve(x) {
+    return promiseResolve(IS_PURE && this === PromiseWrapper ? PromiseConstructor : this, x);
+  }
+});
+
+$({ target: PROMISE, stat: true, forced: INCORRECT_ITERATION }, {
+  // `Promise.all` method
+  // https://tc39.github.io/ecma262/#sec-promise.all
+  all: function all(iterable) {
+    var C = this;
+    var capability = newPromiseCapability(C);
+    var resolve = capability.resolve;
+    var reject = capability.reject;
+    var result = perform(function () {
+      var $promiseResolve = aFunction(C.resolve);
+      var values = [];
+      var counter = 0;
+      var remaining = 1;
+      iterate(iterable, function (promise) {
+        var index = counter++;
+        var alreadyCalled = false;
+        values.push(undefined);
+        remaining++;
+        $promiseResolve.call(C, promise).then(function (value) {
+          if (alreadyCalled) return;
+          alreadyCalled = true;
+          values[index] = value;
+          --remaining || resolve(values);
+        }, reject);
+      });
+      --remaining || resolve(values);
+    });
+    if (result.error) reject(result.value);
+    return capability.promise;
+  },
+  // `Promise.race` method
+  // https://tc39.github.io/ecma262/#sec-promise.race
+  race: function race(iterable) {
+    var C = this;
+    var capability = newPromiseCapability(C);
+    var reject = capability.reject;
+    var result = perform(function () {
+      var $promiseResolve = aFunction(C.resolve);
+      iterate(iterable, function (promise) {
+        $promiseResolve.call(C, promise).then(capability.resolve, reject);
+      });
+    });
+    if (result.error) reject(result.value);
+    return capability.promise;
+  }
+});
+
+
+/***/ }),
+
 /***/ "e841":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42699,6 +43395,8 @@ __webpack_require__("99af");
 
 __webpack_require__("caad");
 
+__webpack_require__("e260");
+
 __webpack_require__("a15b");
 
 __webpack_require__("baa5");
@@ -42710,6 +43408,8 @@ __webpack_require__("b0c0");
 __webpack_require__("b680");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("ac1f");
 
@@ -45725,6 +46425,10 @@ module.exports = _inherits;
 
 __webpack_require__("d3b7");
 
+__webpack_require__("e6cf");
+
+__webpack_require__("a79d");
+
 var _classCallCheck = __webpack_require__("970b");
 
 var _createClass = __webpack_require__("5bc3");
@@ -46002,6 +46706,8 @@ __webpack_require__("a15b");
 __webpack_require__("b64b");
 
 __webpack_require__("d3b7");
+
+__webpack_require__("e6cf");
 
 __webpack_require__("4d63");
 
@@ -46842,21 +47548,6 @@ module.exports = function (key) {
 
 /***/ }),
 
-/***/ "f779":
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__("95d5");
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var add = __webpack_require__("499e").default
-var update = add("4dcfc955", content, true, {"sourceMap":false,"shadowMode":false});
-
-/***/ }),
-
 /***/ "f8cd":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -46902,7 +47593,7 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3c9089a9-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/pdf-viewer.vue?vue&type=template&id=24c74537&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"11721a44-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/pdf-viewer.vue?vue&type=template&id=c61fdf10&scoped=true&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"pdf-app",class:[_vm.localTheme],attrs:{"id":"vuePdfApp"}},[_c('script',{attrs:{"type":"application/l10n"}},[_vm._v(" "+_vm._s(_vm.defaultLocale)+" ")]),_c('div',{attrs:{"id":"outerContainer"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar')),expression:"showElem('sidebar')"}],class:[_vm.isToolbarHidden],attrs:{"id":"sidebarContainer"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(!_vm.isSidebarToolbarHidden),expression:"!isSidebarToolbarHidden"}],attrs:{"id":"toolbarSidebar"}},[_vm._t("toolbar-sidebar-prepend",null,null,_vm.slotProps),_c('div',{staticClass:"splitToolbarButton toggled"},[_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewThumbnail', 'viewThumbnail')),expression:"showElem('sidebar.viewThumbnail', 'viewThumbnail')"}],staticClass:"toolbarButton toggled vue-pdf-app-icon view-thumbnail",attrs:{"id":"viewThumbnail","title":"Show Thumbnails","tabindex":"2","data-l10n-id":"thumbs"}},[_c('span',{attrs:{"data-l10n-id":"thumbs_label"}},[_vm._v("Thumbnails")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewOutline', 'viewOutline')),expression:"showElem('sidebar.viewOutline', 'viewOutline')"}],staticClass:"toolbarButton vue-pdf-app-icon view-outline",attrs:{"id":"viewOutline","title":"Show Document Outline (double-click to expand/collapse all items)","tabindex":"3","data-l10n-id":"document_outline"}},[_c('span',{attrs:{"data-l10n-id":"document_outline_label"}},[_vm._v("Document Outline")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewAttachments', 'viewAttachments')),expression:"showElem('sidebar.viewAttachments', 'viewAttachments')"}],staticClass:"toolbarButton vue-pdf-app-icon view-attachments",attrs:{"id":"viewAttachments","title":"Show Attachments","tabindex":"4","data-l10n-id":"attachments"}},[_c('span',{attrs:{"data-l10n-id":"attachments_label"}},[_vm._v("Attachments")])])]),_vm._t("toolbar-sidebar-append",null,null,_vm.slotProps)],2),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar')),expression:"showElem('sidebar')"}],class:{ 'zero-top': _vm.isSidebarToolbarHidden },attrs:{"id":"sidebarContent"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewThumbnail')),expression:"showElem('sidebar.viewThumbnail')"}],attrs:{"id":"thumbnailView"}}),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewOutline')),expression:"showElem('sidebar.viewOutline')"}],staticClass:"hidden",attrs:{"id":"outlineView"}}),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewAttachments')),expression:"showElem('sidebar.viewAttachments')"}],staticClass:"hidden",attrs:{"id":"attachmentsView"}})]),_c('div',{staticClass:"hidden",attrs:{"id":"sidebarResizer"}})]),_c('div',{attrs:{"id":"mainContainer"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('toolbar.toolbarViewerLeft.findbar', 'findbar')),expression:"showElem('toolbar.toolbarViewerLeft.findbar', 'findbar')"}],staticClass:"findbar hidden doorHanger",attrs:{"id":"findbar"}},[_vm._m(0),_vm._m(1),_vm._m(2),_vm._m(3)]),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar')),expression:"showElem('secondaryToolbar')"}],staticClass:"secondaryToolbar hidden doorHangerRight",attrs:{"id":"secondaryToolbar"}},[_c('div',{attrs:{"id":"secondaryToolbarButtonContainer"}},[_vm._t("secondary-toolbar-prepend",null,null,_vm.slotProps),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryPresentationMode')),expression:"showElem('secondaryToolbar.secondaryPresentationMode')"}],staticClass:"secondaryToolbarButton presentationMode visibleLargeView vue-pdf-app-icon presentation-mode",attrs:{"id":"secondaryPresentationMode","title":"Switch to Presentation Mode","tabindex":"51","data-l10n-id":"presentation_mode"}},[_c('span',{attrs:{"data-l10n-id":"presentation_mode_label"}},[_vm._v("Presentation Mode")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryOpenFile')),expression:"showElem('secondaryToolbar.secondaryOpenFile')"}],staticClass:"secondaryToolbarButton openFile visibleLargeView vue-pdf-app-icon open-file",attrs:{"id":"secondaryOpenFile","title":"Open File","tabindex":"52","data-l10n-id":"open_file"},on:{"~click":function($event){return _vm.bindOpenHandler($event)}}},[_c('span',{attrs:{"data-l10n-id":"open_file_label"}},[_vm._v("Open")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryPrint')),expression:"showElem('secondaryToolbar.secondaryPrint')"}],staticClass:"secondaryToolbarButton print visibleMediumView vue-pdf-app-icon print-button",attrs:{"id":"secondaryPrint","title":"Print","tabindex":"53","data-l10n-id":"print"}},[_c('span',{attrs:{"data-l10n-id":"print_label"}},[_vm._v("Print")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryDownload')),expression:"showElem('secondaryToolbar.secondaryDownload')"}],staticClass:"secondaryToolbarButton download visibleMediumView vue-pdf-app-icon download-button",attrs:{"id":"secondaryDownload","title":"Download","tabindex":"54","data-l10n-id":"download"}},[_c('span',{attrs:{"data-l10n-id":"download_label"}},[_vm._v("Download")])]),_c('a',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryViewBookmark')),expression:"showElem('secondaryToolbar.secondaryViewBookmark')"}],staticClass:"secondaryToolbarButton bookmark visibleSmallView vue-pdf-app-icon bookmark-button",attrs:{"href":"#","id":"secondaryViewBookmark","title":"Current view (copy or open in new window)","tabindex":"55","data-l10n-id":"bookmark"}},[_c('span',{attrs:{"data-l10n-id":"bookmark_label"}},[_vm._v("Current View")])]),(
               _vm.showElem('secondaryToolbar.secondaryPresentationMode') ||
               _vm.showElem('secondaryToolbar.secondaryOpenFile') ||
@@ -47010,7 +47701,7 @@ var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._sel
 var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarInputContainer"}},[_c('input',{staticClass:"toolbarField",attrs:{"id":"findInput","title":"Find","placeholder":"Find in document…","tabindex":"91","data-l10n-id":"find_input"}}),_c('div',{staticClass:"splitToolbarButton"},[_c('button',{staticClass:"toolbarButton findPrevious vue-pdf-app-icon find-previous",attrs:{"id":"findPrevious","title":"Find the previous occurrence of the phrase","tabindex":"92","data-l10n-id":"find_previous"}},[_c('span',{attrs:{"data-l10n-id":"find_previous_label"}},[_vm._v("Previous")])]),_c('div',{staticClass:"splitToolbarButtonSeparator"}),_c('button',{staticClass:"toolbarButton findNext vue-pdf-app-icon find-next",attrs:{"id":"findNext","title":"Find the next occurrence of the phrase","tabindex":"93","data-l10n-id":"find_next"}},[_c('span',{attrs:{"data-l10n-id":"find_next_label"}},[_vm._v("Next")])])])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarOptionsOneContainer"}},[_c('input',{staticClass:"toolbarField",attrs:{"type":"checkbox","id":"findHighlightAll","tabindex":"94"}}),_c('label',{staticClass:"toolbarLabel",attrs:{"for":"findHighlightAll","data-l10n-id":"find_highlight"}},[_vm._v("Highlight all")]),_c('input',{staticClass:"toolbarField",attrs:{"type":"checkbox","id":"findMatchCase","tabindex":"95"}}),_c('label',{staticClass:"toolbarLabel",attrs:{"for":"findMatchCase","data-l10n-id":"find_match_case_label"}},[_vm._v("Match case")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarOptionsTwoContainer"}},[_c('input',{staticClass:"toolbarField",attrs:{"type":"checkbox","id":"findEntireWord","tabindex":"96"}}),_c('label',{staticClass:"toolbarLabel",attrs:{"for":"findEntireWord","data-l10n-id":"find_entire_word_label"}},[_vm._v("Whole words")]),_c('span',{staticClass:"toolbarLabel hidden",attrs:{"id":"findResultsCount"}})])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarMessageContainer"}},[_c('span',{staticClass:"toolbarLabel",attrs:{"id":"findMsg"}})])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"loadingBar"}},[_c('div',{staticClass:"progress"},[_c('div',{staticClass:"glimmer"})])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"errorMessageLeft"}},[_c('span',{attrs:{"id":"errorMessage"}}),_c('button',{attrs:{"id":"errorShowMore","data-l10n-id":"error_more_info"}},[_vm._v(" More Information ")]),_c('button',{attrs:{"id":"errorShowLess","data-l10n-id":"error_less_info","hidden":"true"}},[_vm._v(" Less Information ")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"errorMessageRight"}},[_c('button',{attrs:{"id":"errorClose","data-l10n-id":"error_close"}},[_vm._v("Close")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"hidden",attrs:{"id":"overlayContainer"}},[_c('div',{staticClass:"container hidden",attrs:{"id":"passwordOverlay"}},[_c('div',{staticClass:"dialog"},[_c('div',{staticClass:"row"},[_c('p',{attrs:{"id":"passwordText","data-l10n-id":"password_label"}},[_vm._v(" Enter the password to open this PDF file: ")])]),_c('div',{staticClass:"row"},[_c('input',{staticClass:"toolbarField",attrs:{"type":"password","id":"password"}})]),_c('div',{staticClass:"buttonRow"},[_c('button',{staticClass:"overlayButton",attrs:{"id":"passwordCancel"}},[_c('span',{attrs:{"data-l10n-id":"password_cancel"}},[_vm._v("Cancel")])]),_c('button',{staticClass:"overlayButton",attrs:{"id":"passwordSubmit"}},[_c('span',{attrs:{"data-l10n-id":"password_ok"}},[_vm._v("OK")])])])])]),_c('div',{staticClass:"container hidden",attrs:{"id":"documentPropertiesOverlay"}},[_c('div',{staticClass:"dialog"},[_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_file_name"}},[_vm._v("File name:")]),_c('p',{attrs:{"id":"fileNameField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_file_size"}},[_vm._v("File size:")]),_c('p',{attrs:{"id":"fileSizeField"}},[_vm._v("-")])]),_c('div',{staticClass:"separator"}),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_title"}},[_vm._v("Title:")]),_c('p',{attrs:{"id":"titleField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_author"}},[_vm._v("Author:")]),_c('p',{attrs:{"id":"authorField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_subject"}},[_vm._v("Subject:")]),_c('p',{attrs:{"id":"subjectField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_keywords"}},[_vm._v("Keywords:")]),_c('p',{attrs:{"id":"keywordsField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_creation_date"}},[_vm._v("Creation Date:")]),_c('p',{attrs:{"id":"creationDateField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_modification_date"}},[_vm._v("Modification Date:")]),_c('p',{attrs:{"id":"modificationDateField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_creator"}},[_vm._v("Creator:")]),_c('p',{attrs:{"id":"creatorField"}},[_vm._v("-")])]),_c('div',{staticClass:"separator"}),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_producer"}},[_vm._v("PDF Producer:")]),_c('p',{attrs:{"id":"producerField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_version"}},[_vm._v("PDF Version:")]),_c('p',{attrs:{"id":"versionField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_page_count"}},[_vm._v("Page Count:")]),_c('p',{attrs:{"id":"pageCountField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_page_size"}},[_vm._v("Page Size:")]),_c('p',{attrs:{"id":"pageSizeField"}},[_vm._v("-")])]),_c('div',{staticClass:"separator"}),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_linearized"}},[_vm._v("Fast Web View:")]),_c('p',{attrs:{"id":"linearizedField"}},[_vm._v("-")])]),_c('div',{staticClass:"buttonRow"},[_c('button',{staticClass:"overlayButton",attrs:{"id":"documentPropertiesClose"}},[_c('span',{attrs:{"data-l10n-id":"document_properties_close"}},[_vm._v("Close")])])])])]),_c('div',{staticClass:"container hidden",attrs:{"id":"printServiceOverlay"}},[_c('div',{staticClass:"dialog"},[_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"print_progress_message"}},[_vm._v("Preparing document for printing…")])]),_c('div',{staticClass:"row"},[_c('progress',{attrs:{"value":"0","max":"100"}}),_c('span',{staticClass:"relative-progress",attrs:{"data-l10n-id":"print_progress_percent","data-l10n-args":"{ \"progress\": 0 }"}},[_vm._v("0%")])]),_c('div',{staticClass:"buttonRow"},[_c('button',{staticClass:"overlayButton",attrs:{"id":"printCancel"}},[_c('span',{attrs:{"data-l10n-id":"print_progress_close"}},[_vm._v("Cancel")])])])])])])}]
 
 
-// CONCATENATED MODULE: ./src/components/pdf-viewer.vue?vue&type=template&id=24c74537&scoped=true&
+// CONCATENATED MODULE: ./src/components/pdf-viewer.vue?vue&type=template&id=c61fdf10&scoped=true&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.includes.js
 var es_array_includes = __webpack_require__("caad");
@@ -47033,7 +47724,11 @@ var es_string_replace = __webpack_require__("5319");
 // EXTERNAL MODULE: ./node_modules/regenerator-runtime/runtime.js
 var runtime = __webpack_require__("96cf");
 
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.promise.js
+var es_promise = __webpack_require__("e6cf");
+
 // CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js
+
 
 
 function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {
@@ -47160,6 +47855,9 @@ var es_symbol_description = __webpack_require__("e01a");
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.symbol.iterator.js
 var es_symbol_iterator = __webpack_require__("d28b");
 
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.iterator.js
+var es_array_iterator = __webpack_require__("e260");
+
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.iterator.js
 var es_string_iterator = __webpack_require__("3ca3");
 
@@ -47167,6 +47865,7 @@ var es_string_iterator = __webpack_require__("3ca3");
 var web_dom_collections_iterator = __webpack_require__("ddb0");
 
 // CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/typeof.js
+
 
 
 
@@ -48074,7 +48773,84 @@ var sass = __webpack_require__("85c3");
 var PDF_FILE_INPUT_ID = "pdfFileInput";
 // CONCATENATED MODULE: ./src/utils/pdf-config.ts
 
+
+
+
+
 var getEl = document.getElementById.bind(document);
+
+function delay(ms) {
+  return new Promise(function (resolve) {
+    return setTimeout(resolve, ms);
+  });
+}
+/**
+ * Used to poll the DOM for the existance of a specific element;
+ * useful to resolve timing issues e.g. if the pdf viewer is in
+ * a dialog or similar that might not get mounted until later.
+ *
+ * If it doesn't find it within `maxRetries` attempts it will
+ * stop looking
+ */
+
+
+function waitForElement(_x, _x2) {
+  return _waitForElement.apply(this, arguments);
+}
+
+function _waitForElement() {
+  _waitForElement = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee(elId, checkMs) {
+    var maxRetries,
+        i,
+        _args = arguments;
+    return regeneratorRuntime.wrap(function _callee$(_context) {
+      while (1) {
+        switch (_context.prev = _context.next) {
+          case 0:
+            maxRetries = _args.length > 2 && _args[2] !== undefined ? _args[2] : 50;
+            i = 0;
+
+          case 2:
+            if (!(i < 50)) {
+              _context.next = 10;
+              break;
+            }
+
+            if (!getEl(elId)) {
+              _context.next = 5;
+              break;
+            }
+
+            return _context.abrupt("return", true);
+
+          case 5:
+            _context.next = 7;
+            return delay(checkMs);
+
+          case 7:
+            ++i;
+            _context.next = 2;
+            break;
+
+          case 10:
+            return _context.abrupt("return", false);
+
+          case 11:
+          case "end":
+            return _context.stop();
+        }
+      }
+    }, _callee);
+  }));
+  return _waitForElement.apply(this, arguments);
+}
+
+function waitForAppConfig() {
+  return waitForElement("viewerContainer", 100);
+}
+function viewerElementReady() {
+  return !!getEl("viewerContainer");
+}
 /* harmony default export */ var pdf_config = (function () {
   var idConfig = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
   return {
@@ -48804,15 +49580,52 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
     }
   }, {
     key: "mounted",
-    value: function mounted() {
-      this.addPrintContainer();
-      var config = pdf_config(this.idConfig);
+    value: function () {
+      var _mounted = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
+        var foundAfterWaiting, config;
+        return regeneratorRuntime.wrap(function _callee$(_context) {
+          while (1) {
+            switch (_context.prev = _context.next) {
+              case 0:
+                this.addPrintContainer();
 
-      if (app["PDFViewerApplication"]) {
-        app["PDFViewerApplication"].run(config);
-        app["PDFViewerApplication"].initializedPromise.then(this.setDefaultPageScale.bind(this)).then(this.open.bind(this)).then(this.bindSidebarToggleEvents.bind(this)).then(this.bindFindbarToggleEvents.bind(this)).catch(errorHandler);
+                if (viewerElementReady()) {
+                  _context.next = 6;
+                  break;
+                }
+
+                _context.next = 4;
+                return waitForAppConfig();
+
+              case 4:
+                foundAfterWaiting = _context.sent;
+
+                if (!foundAfterWaiting) {
+                  console.warn("Could not find app container; PDF viewer will probably not work");
+                }
+
+              case 6:
+                config = pdf_config(this.idConfig);
+
+                if (app["PDFViewerApplication"]) {
+                  app["PDFViewerApplication"].run(config);
+                  app["PDFViewerApplication"].initializedPromise.then(this.setDefaultPageScale.bind(this)).then(this.open.bind(this)).then(this.bindSidebarToggleEvents.bind(this)).then(this.bindFindbarToggleEvents.bind(this)).catch(errorHandler);
+                }
+
+              case 8:
+              case "end":
+                return _context.stop();
+            }
+          }
+        }, _callee, this);
+      }));
+
+      function mounted() {
+        return _mounted.apply(this, arguments);
       }
-    }
+
+      return mounted;
+    }()
   }, {
     key: "bindSidebarToggleEvents",
     value: function bindSidebarToggleEvents() {
@@ -48844,14 +49657,14 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
       var fileInput = document.getElementById(PDF_FILE_INPUT_ID);
 
       var fileInputHandler = /*#__PURE__*/function () {
-        var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
+        var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
           var _pdfApp$PDFViewerAppl;
 
-          return regeneratorRuntime.wrap(function _callee$(_context) {
+          return regeneratorRuntime.wrap(function _callee2$(_context2) {
             while (1) {
-              switch (_context.prev = _context.next) {
+              switch (_context2.prev = _context2.next) {
                 case 0:
-                  _context.next = 2;
+                  _context2.next = 2;
                   return (_pdfApp$PDFViewerAppl = app["PDFViewerApplication"].pdfLoadingTask) === null || _pdfApp$PDFViewerAppl === void 0 ? void 0 : _pdfApp$PDFViewerAppl.promise;
 
                 case 2:
@@ -48859,10 +49672,10 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
 
                 case 3:
                 case "end":
-                  return _context.stop();
+                  return _context2.stop();
               }
             }
-          }, _callee);
+          }, _callee2);
         }));
 
         return function fileInputHandler() {
@@ -48901,24 +49714,24 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
   }, {
     key: "openDocument",
     value: function () {
-      var _openDocument = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
+      var _openDocument = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee3() {
         var _pdfApp$PDFViewerAppl3,
             _pdfApp$PDFViewerAppl4,
             _this4 = this;
 
-        return regeneratorRuntime.wrap(function _callee2$(_context2) {
+        return regeneratorRuntime.wrap(function _callee3$(_context3) {
           while (1) {
-            switch (_context2.prev = _context2.next) {
+            switch (_context3.prev = _context3.next) {
               case 0:
                 this.resetLoadingBar();
                 this.$emit("open", app["PDFViewerApplication"]); // @ts-ignore
 
                 if (!((_pdfApp$PDFViewerAppl3 = app["PDFViewerApplication"]) === null || _pdfApp$PDFViewerAppl3 === void 0 ? void 0 : (_pdfApp$PDFViewerAppl4 = _pdfApp$PDFViewerAppl3.pdfViewer) === null || _pdfApp$PDFViewerAppl4 === void 0 ? void 0 : _pdfApp$PDFViewerAppl4.pagesPromise)) {
-                  _context2.next = 9;
+                  _context3.next = 9;
                   break;
                 }
 
-                _context2.next = 5;
+                _context3.next = 5;
                 return app["PDFViewerApplication"].pdfViewer.pagesPromise.catch(errorHandler);
 
               case 5:
@@ -48934,10 +49747,10 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
 
               case 9:
               case "end":
-                return _context2.stop();
+                return _context3.stop();
             }
           }
-        }, _callee2, this);
+        }, _callee3, this);
       }));
 
       function openDocument() {
@@ -49139,8 +49952,8 @@ pdf_viewervue_type_script_lang_ts_PdfViewer = __decorate([vue_class_component_es
 // EXTERNAL MODULE: ./src/components/pdf-viewer.vue?vue&type=style&index=0&lang=css&
 var pdf_viewervue_type_style_index_0_lang_css_ = __webpack_require__("bfa5");
 
-// EXTERNAL MODULE: ./src/components/pdf-viewer.vue?vue&type=style&index=1&id=24c74537&lang=scss&scoped=true&
-var pdf_viewervue_type_style_index_1_id_24c74537_lang_scss_scoped_true_ = __webpack_require__("387a");
+// EXTERNAL MODULE: ./src/components/pdf-viewer.vue?vue&type=style&index=1&id=c61fdf10&lang=scss&scoped=true&
+var pdf_viewervue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true_ = __webpack_require__("95bd");
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -49258,7 +50071,7 @@ var component = normalizeComponent(
   staticRenderFns,
   false,
   null,
-  "24c74537",
+  "c61fdf10",
   null
   
 )
@@ -49902,6 +50715,16 @@ var PDFPresentationMode = /*#__PURE__*/function () {
 }();
 
 exports.PDFPresentationMode = PDFPresentationMode;
+
+/***/ }),
+
+/***/ "fea9":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+
+module.exports = global.Promise;
+
 
 /***/ })
 
