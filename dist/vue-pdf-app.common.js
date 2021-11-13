@@ -11271,20 +11271,6 @@ $({ target: 'Array', proto: true, forced: !STRICT_METHOD || !USES_TO_LENGTH }, {
 
 /***/ }),
 
-/***/ "4657":
-/***/ (function(module, exports, __webpack_require__) {
-
-// Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
-exports = ___CSS_LOADER_API_IMPORT___(false);
-// Module
-exports.push([module.i, "#sidebarContainer.zero-top[data-v-c61fdf10],#sidebarContent.zero-top[data-v-c61fdf10],#viewerContainer.zero-top[data-v-c61fdf10]{top:0}", ""]);
-// Exports
-module.exports = exports;
-
-
-/***/ }),
-
 /***/ "466d":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -22077,6 +22063,20 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
 
 /***/ }),
 
+/***/ "8881":
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.i, "#sidebarContainer.zero-top[data-v-6559c94b],#sidebarContent.zero-top[data-v-6559c94b],#viewerContainer.zero-top[data-v-6559c94b]{top:0}", ""]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
 /***/ "88cc":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23857,17 +23857,6 @@ var POLYFILL = isForced.POLYFILL = 'P';
 
 module.exports = isForced;
 
-
-/***/ }),
-
-/***/ "95bd":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("b084");
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
- /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -29743,6 +29732,21 @@ exports.BROKEN_CARET = fails(function () {
 
 /***/ }),
 
+/***/ "9fb1":
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__("8881");
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var add = __webpack_require__("499e").default
+var update = add("1e68f02e", content, true, {"sourceMap":false,"shadowMode":false});
+
+/***/ }),
+
 /***/ "9fbe":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33375,21 +33379,6 @@ module.exports = TO_STRING_TAG_SUPPORT ? {}.toString : function toString() {
   return '[object ' + classof(this) + ']';
 };
 
-
-/***/ }),
-
-/***/ "b084":
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__("4657");
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var add = __webpack_require__("499e").default
-var update = add("bb0faf72", content, true, {"sourceMap":false,"shadowMode":false});
 
 /***/ }),
 
@@ -39036,6 +39025,17 @@ module.exports = function (it, TAG, STATIC) {
   }
 };
 
+
+/***/ }),
+
+/***/ "d4cf":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_6559c94b_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("9fb1");
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_6559c94b_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_6559c94b_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+ /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_vue_style_loader_index_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_3_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_4_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_pdf_viewer_vue_vue_type_style_index_1_id_6559c94b_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -47584,7 +47584,7 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"11721a44-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/pdf-viewer.vue?vue&type=template&id=c61fdf10&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"161f8b5d-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/pdf-viewer.vue?vue&type=template&id=6559c94b&scoped=true&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"pdf-app",class:[_vm.localTheme],attrs:{"id":"vuePdfApp"}},[_c('script',{attrs:{"type":"application/l10n"}},[_vm._v(" "+_vm._s(_vm.defaultLocale)+" ")]),_c('div',{attrs:{"id":"outerContainer"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar')),expression:"showElem('sidebar')"}],class:[_vm.isToolbarHidden],attrs:{"id":"sidebarContainer"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(!_vm.isSidebarToolbarHidden),expression:"!isSidebarToolbarHidden"}],attrs:{"id":"toolbarSidebar"}},[_vm._t("toolbar-sidebar-prepend",null,null,_vm.slotProps),_c('div',{staticClass:"splitToolbarButton toggled"},[_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewThumbnail', 'viewThumbnail')),expression:"showElem('sidebar.viewThumbnail', 'viewThumbnail')"}],staticClass:"toolbarButton toggled vue-pdf-app-icon view-thumbnail",attrs:{"id":"viewThumbnail","title":"Show Thumbnails","tabindex":"2","data-l10n-id":"thumbs"}},[_c('span',{attrs:{"data-l10n-id":"thumbs_label"}},[_vm._v("Thumbnails")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewOutline', 'viewOutline')),expression:"showElem('sidebar.viewOutline', 'viewOutline')"}],staticClass:"toolbarButton vue-pdf-app-icon view-outline",attrs:{"id":"viewOutline","title":"Show Document Outline (double-click to expand/collapse all items)","tabindex":"3","data-l10n-id":"document_outline"}},[_c('span',{attrs:{"data-l10n-id":"document_outline_label"}},[_vm._v("Document Outline")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewAttachments', 'viewAttachments')),expression:"showElem('sidebar.viewAttachments', 'viewAttachments')"}],staticClass:"toolbarButton vue-pdf-app-icon view-attachments",attrs:{"id":"viewAttachments","title":"Show Attachments","tabindex":"4","data-l10n-id":"attachments"}},[_c('span',{attrs:{"data-l10n-id":"attachments_label"}},[_vm._v("Attachments")])])]),_vm._t("toolbar-sidebar-append",null,null,_vm.slotProps)],2),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar')),expression:"showElem('sidebar')"}],class:{ 'zero-top': _vm.isSidebarToolbarHidden },attrs:{"id":"sidebarContent"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewThumbnail')),expression:"showElem('sidebar.viewThumbnail')"}],attrs:{"id":"thumbnailView"}}),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewOutline')),expression:"showElem('sidebar.viewOutline')"}],staticClass:"hidden",attrs:{"id":"outlineView"}}),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('sidebar.viewAttachments')),expression:"showElem('sidebar.viewAttachments')"}],staticClass:"hidden",attrs:{"id":"attachmentsView"}})]),_c('div',{staticClass:"hidden",attrs:{"id":"sidebarResizer"}})]),_c('div',{attrs:{"id":"mainContainer"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('toolbar.toolbarViewerLeft.findbar', 'findbar')),expression:"showElem('toolbar.toolbarViewerLeft.findbar', 'findbar')"}],staticClass:"findbar hidden doorHanger",attrs:{"id":"findbar"}},[_vm._m(0),_vm._m(1),_vm._m(2),_vm._m(3)]),_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar')),expression:"showElem('secondaryToolbar')"}],staticClass:"secondaryToolbar hidden doorHangerRight",attrs:{"id":"secondaryToolbar"}},[_c('div',{attrs:{"id":"secondaryToolbarButtonContainer"}},[_vm._t("secondary-toolbar-prepend",null,null,_vm.slotProps),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryPresentationMode')),expression:"showElem('secondaryToolbar.secondaryPresentationMode')"}],staticClass:"secondaryToolbarButton presentationMode visibleLargeView vue-pdf-app-icon presentation-mode",attrs:{"id":"secondaryPresentationMode","title":"Switch to Presentation Mode","tabindex":"51","data-l10n-id":"presentation_mode"}},[_c('span',{attrs:{"data-l10n-id":"presentation_mode_label"}},[_vm._v("Presentation Mode")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryOpenFile')),expression:"showElem('secondaryToolbar.secondaryOpenFile')"}],staticClass:"secondaryToolbarButton openFile visibleLargeView vue-pdf-app-icon open-file",attrs:{"id":"secondaryOpenFile","title":"Open File","tabindex":"52","data-l10n-id":"open_file"},on:{"~click":function($event){return _vm.bindOpenHandler($event)}}},[_c('span',{attrs:{"data-l10n-id":"open_file_label"}},[_vm._v("Open")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryPrint')),expression:"showElem('secondaryToolbar.secondaryPrint')"}],staticClass:"secondaryToolbarButton print visibleMediumView vue-pdf-app-icon print-button",attrs:{"id":"secondaryPrint","title":"Print","tabindex":"53","data-l10n-id":"print"}},[_c('span',{attrs:{"data-l10n-id":"print_label"}},[_vm._v("Print")])]),_c('button',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryDownload')),expression:"showElem('secondaryToolbar.secondaryDownload')"}],staticClass:"secondaryToolbarButton download visibleMediumView vue-pdf-app-icon download-button",attrs:{"id":"secondaryDownload","title":"Download","tabindex":"54","data-l10n-id":"download"}},[_c('span',{attrs:{"data-l10n-id":"download_label"}},[_vm._v("Download")])]),_c('a',{directives:[{name:"show",rawName:"v-show",value:(_vm.showElem('secondaryToolbar.secondaryViewBookmark')),expression:"showElem('secondaryToolbar.secondaryViewBookmark')"}],staticClass:"secondaryToolbarButton bookmark visibleSmallView vue-pdf-app-icon bookmark-button",attrs:{"href":"#","id":"secondaryViewBookmark","title":"Current view (copy or open in new window)","tabindex":"55","data-l10n-id":"bookmark"}},[_c('span',{attrs:{"data-l10n-id":"bookmark_label"}},[_vm._v("Current View")])]),(
               _vm.showElem('secondaryToolbar.secondaryPresentationMode') ||
               _vm.showElem('secondaryToolbar.secondaryOpenFile') ||
@@ -47692,7 +47692,7 @@ var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._sel
 var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarInputContainer"}},[_c('input',{staticClass:"toolbarField",attrs:{"id":"findInput","title":"Find","placeholder":"Find in document…","tabindex":"91","data-l10n-id":"find_input"}}),_c('div',{staticClass:"splitToolbarButton"},[_c('button',{staticClass:"toolbarButton findPrevious vue-pdf-app-icon find-previous",attrs:{"id":"findPrevious","title":"Find the previous occurrence of the phrase","tabindex":"92","data-l10n-id":"find_previous"}},[_c('span',{attrs:{"data-l10n-id":"find_previous_label"}},[_vm._v("Previous")])]),_c('div',{staticClass:"splitToolbarButtonSeparator"}),_c('button',{staticClass:"toolbarButton findNext vue-pdf-app-icon find-next",attrs:{"id":"findNext","title":"Find the next occurrence of the phrase","tabindex":"93","data-l10n-id":"find_next"}},[_c('span',{attrs:{"data-l10n-id":"find_next_label"}},[_vm._v("Next")])])])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarOptionsOneContainer"}},[_c('input',{staticClass:"toolbarField",attrs:{"type":"checkbox","id":"findHighlightAll","tabindex":"94"}}),_c('label',{staticClass:"toolbarLabel",attrs:{"for":"findHighlightAll","data-l10n-id":"find_highlight"}},[_vm._v("Highlight all")]),_c('input',{staticClass:"toolbarField",attrs:{"type":"checkbox","id":"findMatchCase","tabindex":"95"}}),_c('label',{staticClass:"toolbarLabel",attrs:{"for":"findMatchCase","data-l10n-id":"find_match_case_label"}},[_vm._v("Match case")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarOptionsTwoContainer"}},[_c('input',{staticClass:"toolbarField",attrs:{"type":"checkbox","id":"findEntireWord","tabindex":"96"}}),_c('label',{staticClass:"toolbarLabel",attrs:{"for":"findEntireWord","data-l10n-id":"find_entire_word_label"}},[_vm._v("Whole words")]),_c('span',{staticClass:"toolbarLabel hidden",attrs:{"id":"findResultsCount"}})])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"findbarMessageContainer"}},[_c('span',{staticClass:"toolbarLabel",attrs:{"id":"findMsg"}})])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"loadingBar"}},[_c('div',{staticClass:"progress"},[_c('div',{staticClass:"glimmer"})])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"errorMessageLeft"}},[_c('span',{attrs:{"id":"errorMessage"}}),_c('button',{attrs:{"id":"errorShowMore","data-l10n-id":"error_more_info"}},[_vm._v(" More Information ")]),_c('button',{attrs:{"id":"errorShowLess","data-l10n-id":"error_less_info","hidden":"true"}},[_vm._v(" Less Information ")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"errorMessageRight"}},[_c('button',{attrs:{"id":"errorClose","data-l10n-id":"error_close"}},[_vm._v("Close")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"hidden",attrs:{"id":"overlayContainer"}},[_c('div',{staticClass:"container hidden",attrs:{"id":"passwordOverlay"}},[_c('div',{staticClass:"dialog"},[_c('div',{staticClass:"row"},[_c('p',{attrs:{"id":"passwordText","data-l10n-id":"password_label"}},[_vm._v(" Enter the password to open this PDF file: ")])]),_c('div',{staticClass:"row"},[_c('input',{staticClass:"toolbarField",attrs:{"type":"password","id":"password"}})]),_c('div',{staticClass:"buttonRow"},[_c('button',{staticClass:"overlayButton",attrs:{"id":"passwordCancel"}},[_c('span',{attrs:{"data-l10n-id":"password_cancel"}},[_vm._v("Cancel")])]),_c('button',{staticClass:"overlayButton",attrs:{"id":"passwordSubmit"}},[_c('span',{attrs:{"data-l10n-id":"password_ok"}},[_vm._v("OK")])])])])]),_c('div',{staticClass:"container hidden",attrs:{"id":"documentPropertiesOverlay"}},[_c('div',{staticClass:"dialog"},[_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_file_name"}},[_vm._v("File name:")]),_c('p',{attrs:{"id":"fileNameField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_file_size"}},[_vm._v("File size:")]),_c('p',{attrs:{"id":"fileSizeField"}},[_vm._v("-")])]),_c('div',{staticClass:"separator"}),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_title"}},[_vm._v("Title:")]),_c('p',{attrs:{"id":"titleField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_author"}},[_vm._v("Author:")]),_c('p',{attrs:{"id":"authorField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_subject"}},[_vm._v("Subject:")]),_c('p',{attrs:{"id":"subjectField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_keywords"}},[_vm._v("Keywords:")]),_c('p',{attrs:{"id":"keywordsField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_creation_date"}},[_vm._v("Creation Date:")]),_c('p',{attrs:{"id":"creationDateField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_modification_date"}},[_vm._v("Modification Date:")]),_c('p',{attrs:{"id":"modificationDateField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_creator"}},[_vm._v("Creator:")]),_c('p',{attrs:{"id":"creatorField"}},[_vm._v("-")])]),_c('div',{staticClass:"separator"}),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_producer"}},[_vm._v("PDF Producer:")]),_c('p',{attrs:{"id":"producerField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_version"}},[_vm._v("PDF Version:")]),_c('p',{attrs:{"id":"versionField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_page_count"}},[_vm._v("Page Count:")]),_c('p',{attrs:{"id":"pageCountField"}},[_vm._v("-")])]),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_page_size"}},[_vm._v("Page Size:")]),_c('p',{attrs:{"id":"pageSizeField"}},[_vm._v("-")])]),_c('div',{staticClass:"separator"}),_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"document_properties_linearized"}},[_vm._v("Fast Web View:")]),_c('p',{attrs:{"id":"linearizedField"}},[_vm._v("-")])]),_c('div',{staticClass:"buttonRow"},[_c('button',{staticClass:"overlayButton",attrs:{"id":"documentPropertiesClose"}},[_c('span',{attrs:{"data-l10n-id":"document_properties_close"}},[_vm._v("Close")])])])])]),_c('div',{staticClass:"container hidden",attrs:{"id":"printServiceOverlay"}},[_c('div',{staticClass:"dialog"},[_c('div',{staticClass:"row"},[_c('span',{attrs:{"data-l10n-id":"print_progress_message"}},[_vm._v("Preparing document for printing…")])]),_c('div',{staticClass:"row"},[_c('progress',{attrs:{"value":"0","max":"100"}}),_c('span',{staticClass:"relative-progress",attrs:{"data-l10n-id":"print_progress_percent","data-l10n-args":"{ \"progress\": 0 }"}},[_vm._v("0%")])]),_c('div',{staticClass:"buttonRow"},[_c('button',{staticClass:"overlayButton",attrs:{"id":"printCancel"}},[_c('span',{attrs:{"data-l10n-id":"print_progress_close"}},[_vm._v("Cancel")])])])])])])}]
 
 
-// CONCATENATED MODULE: ./src/components/pdf-viewer.vue?vue&type=template&id=c61fdf10&scoped=true&
+// CONCATENATED MODULE: ./src/components/pdf-viewer.vue?vue&type=template&id=6559c94b&scoped=true&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.includes.js
 var es_array_includes = __webpack_require__("caad");
@@ -47706,6 +47706,9 @@ var es_number_constructor = __webpack_require__("a9e3");
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.object.to-string.js
 var es_object_to_string = __webpack_require__("d3b7");
 
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.promise.js
+var es_promise = __webpack_require__("e6cf");
+
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.regexp.exec.js
 var es_regexp_exec = __webpack_require__("ac1f");
 
@@ -47714,9 +47717,6 @@ var es_string_replace = __webpack_require__("5319");
 
 // EXTERNAL MODULE: ./node_modules/regenerator-runtime/runtime.js
 var runtime = __webpack_require__("96cf");
-
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es.promise.js
-var es_promise = __webpack_require__("e6cf");
 
 // CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js
 
@@ -48745,6 +48745,9 @@ var pdf = __webpack_require__("8750");
 // EXTERNAL MODULE: ./src/pdfjs-dist/lib/web/app.js
 var app = __webpack_require__("ead8");
 
+// EXTERNAL MODULE: ./src/pdfjs-dist/lib/shared/util.js
+var util = __webpack_require__("dacc");
+
 // EXTERNAL MODULE: ./src/pdfjs-dist/lib/web/app_options.js
 var app_options = __webpack_require__("04d0");
 
@@ -49510,8 +49513,11 @@ var toolbar_config_getToolbarConfigValue = function getToolbarConfigValue(config
 
 
 
+
  // FIX typings
 // @ts-ignore
+
+ // @ts-ignore
 
  // @ts-ignore
 
@@ -49530,7 +49536,13 @@ if (app_options["AppOptions"]) {
 }
 
 var themeCacheKey = "vue-pdf-app-theme";
-var errorHandler = console.error.bind(console); // pdf_print_service reassigns window.print.
+var errorHandler = console.error.bind(console);
+/**
+ * pdf.js often fails the second time it's loaded,
+ * but there are some hacks to help minimize the chance of that
+ */
+
+var isFirstTime = true; // pdf_print_service reassigns window.print.
 // Assign original window.print on component destroy.
 // Once pdf is opened again assign window.print = pdfjs.print
 
@@ -49578,24 +49590,35 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
           while (1) {
             switch (_context.prev = _context.next) {
               case 0:
-                this.addPrintContainer();
-
-                if (viewerElementReady()) {
-                  _context.next = 6;
+                if (isFirstTime) {
+                  _context.next = 3;
                   break;
                 }
 
-                _context.next = 4;
+                _context.next = 3;
+                return new Promise(function (res) {
+                  return setTimeout(res, 100);
+                });
+
+              case 3:
+                this.addPrintContainer();
+
+                if (viewerElementReady()) {
+                  _context.next = 9;
+                  break;
+                }
+
+                _context.next = 7;
                 return waitForAppConfig();
 
-              case 4:
+              case 7:
                 foundAfterWaiting = _context.sent;
 
                 if (!foundAfterWaiting) {
                   console.warn("Could not find app container; PDF viewer will probably not work");
                 }
 
-              case 6:
+              case 9:
                 config = pdf_config(this.idConfig);
 
                 if (app["PDFViewerApplication"]) {
@@ -49603,7 +49626,7 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
                   app["PDFViewerApplication"].initializedPromise.then(this.setDefaultPageScale.bind(this)).then(this.open.bind(this)).then(this.bindSidebarToggleEvents.bind(this)).then(this.bindFindbarToggleEvents.bind(this)).catch(errorHandler);
                 }
 
-              case 8:
+              case 11:
               case "end":
                 return _context.stop();
             }
@@ -49787,8 +49810,9 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
   }, {
     key: "destroyPdf",
     value: function destroyPdf() {
-      var _pdfApp$PDFViewerAppl7;
+      var _pdfApp$PDFViewerAppl7, _pdfApp$PDFViewerAppl8;
 
+      app["PDFViewerApplication"].close();
       this.clearCacheTimeout();
       app["PDFViewerApplication"].unbindEvents();
       app["PDFViewerApplication"].unbindWindowEvents(); // @ts-ignore
@@ -49797,7 +49821,12 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
       var el = document.getElementById(PDF_FILE_INPUT_ID);
       el && el.remove(); // __nativePrint__ is assigned in pdf_print_service.js
 
-      window.print = window.__nativePrint__ || window.print;
+      window.print = window.__nativePrint__ || window.print; // Destroy All The Things which are recreated on startup
+
+      (_pdfApp$PDFViewerAppl8 = app["PDFViewerApplication"].pdfViewer) === null || _pdfApp$PDFViewerAppl8 === void 0 ? void 0 : _pdfApp$PDFViewerAppl8.cleanup(); // Reset the promise so we can recreate later if needed
+
+      app["PDFViewerApplication"]._initializedCapability = util["createPromiseCapability"]();
+      isFirstTime = false;
     }
   }, {
     key: "toggleTheme",
@@ -49810,10 +49839,10 @@ var pdf_viewervue_type_script_lang_ts_PdfViewer = /*#__PURE__*/function (_Vue) {
   }, {
     key: "clearCacheTimeout",
     value: function clearCacheTimeout() {
-      var _pdfApp$PDFViewerAppl8;
+      var _pdfApp$PDFViewerAppl9;
 
       var cacheTimeoutId = // @ts-ignore
-      (_pdfApp$PDFViewerAppl8 = app["PDFViewerApplication"].pdfRenderingQueue) === null || _pdfApp$PDFViewerAppl8 === void 0 ? void 0 : _pdfApp$PDFViewerAppl8.idleTimeout;
+      (_pdfApp$PDFViewerAppl9 = app["PDFViewerApplication"].pdfRenderingQueue) === null || _pdfApp$PDFViewerAppl9 === void 0 ? void 0 : _pdfApp$PDFViewerAppl9.idleTimeout;
       clearTimeout(cacheTimeoutId);
     }
   }, {
@@ -49943,8 +49972,8 @@ pdf_viewervue_type_script_lang_ts_PdfViewer = __decorate([vue_class_component_es
 // EXTERNAL MODULE: ./src/components/pdf-viewer.vue?vue&type=style&index=0&lang=css&
 var pdf_viewervue_type_style_index_0_lang_css_ = __webpack_require__("bfa5");
 
-// EXTERNAL MODULE: ./src/components/pdf-viewer.vue?vue&type=style&index=1&id=c61fdf10&lang=scss&scoped=true&
-var pdf_viewervue_type_style_index_1_id_c61fdf10_lang_scss_scoped_true_ = __webpack_require__("95bd");
+// EXTERNAL MODULE: ./src/components/pdf-viewer.vue?vue&type=style&index=1&id=6559c94b&lang=scss&scoped=true&
+var pdf_viewervue_type_style_index_1_id_6559c94b_lang_scss_scoped_true_ = __webpack_require__("d4cf");
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -50062,7 +50091,7 @@ var component = normalizeComponent(
   staticRenderFns,
   false,
   null,
-  "c61fdf10",
+  "6559c94b",
   null
   
 )
