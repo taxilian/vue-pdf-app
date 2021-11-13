@@ -1041,6 +1041,12 @@ if (AppOptions) {
 const themeCacheKey = "vue-pdf-app-theme";
 const errorHandler = console.error.bind(console);
 
+/**
+ * pdf.js often fails the second time it's loaded, 
+ * but there are some hacks to help minimize the chance of that
+ */
+let isFirstTime = true;
+
 // pdf_print_service reassigns window.print.
 // Assign original window.print on component destroy.
 // Once pdf is opened again assign window.print = pdfjs.print
@@ -1146,6 +1152,14 @@ export default class PdfViewer extends Vue {
   }
 
   private async mounted() {
+    
+    if (!isFirstTime) {
+      // I hate doing this, but if I don't it often fails with something like
+      // "offsetParent not set"; adding this small delay on startup seems to
+      // keep it from happening.
+      await new Promise<void>(res => setTimeout(res, 100));
+    }
+    
     this.addPrintContainer();
     if (!viewerElementReady()) {
         // If it hasn't been mounted we'll wait for up to 5 seconds to see if it
@@ -1307,6 +1321,7 @@ export default class PdfViewer extends Vue {
 
     // Reset the promise so we can recreate later if needed
     pdfApp.PDFViewerApplication._initializedCapability = pdfUtil.createPromiseCapability();
+    isFirstTime = false;
   }
 
   private toggleTheme() {
