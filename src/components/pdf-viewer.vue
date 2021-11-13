@@ -1021,6 +1021,8 @@ import "@/pdfjs-dist/es5/build/pdf";
 // @ts-ignore
 import * as pdfApp from "@/pdfjs-dist/lib/web/app";
 // @ts-ignore
+import * as pdfUtil from "@/pdfjs-dist/lib/shared/util";
+// @ts-ignore
 import { AppOptions } from "@/pdfjs-dist/lib/web/app_options";
 import "@/pdfjs-dist/lib/web/genericcom";
 import "@/pdfjs-dist/lib/web/pdf_print_service";
@@ -1284,6 +1286,9 @@ export default class PdfViewer extends Vue {
   }
 
   private destroyPdf(): void {
+    pdfApp.PDFViewerApplication.close();
+
+
     this.clearCacheTimeout();
     pdfApp.PDFViewerApplication.unbindEvents();
     pdfApp.PDFViewerApplication.unbindWindowEvents();
@@ -1296,6 +1301,12 @@ export default class PdfViewer extends Vue {
 
     // __nativePrint__ is assigned in pdf_print_service.js
     window.print = (window as any).__nativePrint__ || window.print;
+
+    // Destroy All The Things which are recreated on startup
+    pdfApp.PDFViewerApplication.pdfViewer?.cleanup();
+
+    // Reset the promise so we can recreate later if needed
+    pdfApp.PDFViewerApplication._initializedCapability = pdfUtil.createPromiseCapability();
   }
 
   private toggleTheme() {
